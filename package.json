@@ -33,7 +33,7 @@
     "@octokit/graphql": "^4.6.2",
     "@octokit/plugin-retry": "^3.0.7",
     "@octokit/plugin-throttling": "^3.4.2",
-    "@octokit/rest": "^18.5.6",
+    "@octokit/rest": "^19.0.5",
     "actions-toolkit": "^6.0.1",
     "date-fns": "^2.22.1",
     "dotenv": "^10.0.0",
